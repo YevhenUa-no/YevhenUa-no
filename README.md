@@ -1,8 +1,7 @@
 # Hi, I'm Yevhen 👋
-Business Analyst at **Statkraft** (Oslo) · MSc Finance, BI Norwegian Business School
 
-I optimize finance processes (Invoice-to-Pay, KPIs, process mining) and build
-AI/ML tools that make finance operations smarter.
+Business Analyst / MSc Finance, BI Norwegian Business School
+
 
 ### 🔧 Featured projects
 - **[AI Interview Coach](https://github.com/YevhenUa-no/chat_bots)** – voice-based mock interviews with feedback · [Live demo](https://chatbots-interview.streamlit.app/)
